@@ -1,7 +1,4 @@
 # CSV to XML Converter
-# Main
-# Zach Nault
-# 3/24/2019
 # Converts CSV files to XML format.
 # Change Log:
 
