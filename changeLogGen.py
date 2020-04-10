@@ -1,7 +1,4 @@
 # Change Log Generator
-# Main
-# Zach Nault
-# 3/26/2019
 # Creates a changelog between two same format CSV files. 
 # Change Log:
 
